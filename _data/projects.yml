@@ -1,0 +1,53 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: DeepLearning.AI TensorFlow Developer Professional Certificate
+  date: 2020
+  img: https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png
+  desc: Coursera specialization to build scalable AI-powered applications with TensorFlow. CNN, NLP, sequences, time series
+  url: https://www.coursera.org/professional-certificates/tensorflow-in-practice
+  grad: https://www.coursera.org/account/accomplishments/professional-cert/FS2SCCBDCB2T
+  stack: Python / Tensorflow
+
+- name: Deep Learning Specialization
+  date: 2020
+  img: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1
+  desc: Learned to build & train neural network architectures such as CNN, RNN, LSTM, Transformers, and to make them better with Dropout, BatchNorm, Xavier/He initialization, and more.
+  url: https://www.coursera.org/specializations/deep-learning
+  grad: https://www.coursera.org/account/accomplishments/specialization/VVT66F2G4ZYX
+  stack: Python / Tensorflow
+
+- name: Fast.ai's Practical Deep Learning for Coders
+  date: 2019-2020
+  img: https://miro.medium.com/max/500/0*N97kM1ZPKJ_AsWA8
+  desc: Learned to train fast and accurate neural nets with modern best practices using fastai, a PyTorch-based framework
+  url: https://course19.fast.ai/index.html
+  stack: fastai / Python / PyTorch
+
+- name: Speaker @ Elm Europe
+  date: 2019
+  img: https://yt3.ggpht.com/ytc/AKedOLS9SexT-7OaIhf_vN_mCmA8YpbnrmDUbnBGQqGf=s900-c-k-c0x00ffffff-no-rj
+  desc: Talk at the two-day conference dedicated to Elm, functional programming language
+  url: https://2019.elmeurope.org
+  youtubeUrl: https://www.youtube.com/watch?v=-8zwuUKldYw
+
+- name: Organizer @ Elm Lyon meetups
+  date: 2018-2019
+  img: https://hackr.io/tutorials/learn-elm/logo/logo-elm?ver=1557507995
+  desc: Organization & animation of Elm meetups with Spottt tech team.  Talks & live-coding about developing web apps in Elm.
+  url: https://elm-lang.org
+
+- name: Homemade Raspberry smart mirror
+  date: 2017-2018
+  gh_user: dway8
+  repo: black-mirror
+  img: images/mirror.jpg
+  desc: My company's private Raspberry-powered smart mirror. It displays business information in real-time, last tweets, forecast etc.
+  stack: Elm / Express
+
+- name: Spottt
+  date: 2017-now
+  img: images/spottt.png
+  desc: Startup specialized in innovative digital solutions for the event market. Maps, online payment, SVG drawing, data viz
+  stack: Elm / Node.js / TypeScript / Leaflet / PHP
+  url: https://www.spottt.fr
