@@ -7,7 +7,7 @@
   gh_user: dway8
   repo: pytorch-mnist-experiments
   img: images/mnist.png
-  desc: Experiencing with PyTorch to classify MNIST dataset with a simple feed-forward network, a CNN and a pretrained VGG16 network.
+  desc: Experimenting with PyTorch to classify MNIST dataset with a simple feed-forward network, a CNN and a pretrained VGG16 network.
   stack: Python / PyTorch
 
 - name: DeepLearning.AI TensorFlow Developer Professional Certificate
