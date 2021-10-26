@@ -1,6 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: PyTorch MNIST experiments
+  date: 2021
+  gh_user: dway8
+  repo: pytorch-mnist-experiments
+  img: images/mnist.png
+  desc: Experiencing with PyTorch to classify MNIST dataset with a simple feed-forward network, a CNN and a pretrained VGG16 network.
+  stack: Python / PyTorch
+
 - name: DeepLearning.AI TensorFlow Developer Professional Certificate
   date: 2020
   img: https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png
